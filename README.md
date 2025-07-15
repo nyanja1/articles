@@ -14,7 +14,7 @@ This project models Authors, Articles, and Magazines with the following relation
 - Articles belong to one Author and one Magazine.
 - Author and Magazine have a many-to-many relationship through Articles.
 
-Implemented with Python classes using raw SQL queries, transaction handling, and comprehensive tests. 
+Implemented with Python classes using raw SQL queries, transaction handling, and comprehensive tests 
 
 ---
 
